@@ -1,1 +1,122 @@
-html
+<!DOCTYPE HTML>
+ 
+<html>
+<style>
+    body{font-family: Garamond, serif;
+        font-size: 20px;
+        font color="darkgrey";
+        background-color:lightblue;
+        background-image: url(Pictures/OlympicRings1.png);
+        background-repeat: no-repeat;
+        background-position-x: 400px;
+        background-position-y: 50px;
+        background-size: 1000px 600px;}
+ 
+  
+ 
+ a:link {
+  color: darksalmon;
+  background-color: transparent;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+</style>
+<head>
+    <div id="searchbar"> <b> <a href="">Home</a> |<a href="https://olympics.com/en/">About </a> | 
+        <a href="https://olympics.com/en/news/">News</a> |  
+        <a href="https://olympics.com/en/sports/">Sports</a>   </b>
+    </div>
+    <div id="title"><h1> Olympic Games                                            
+    </div>
+        <meta name="keywords" content="Olympia, Olympic Games, Alexander Hart, Alex Hart">
+  
+</h1>
+    <!--linking to css page-->
+    <link rel="stylesheet" type="text/css" href="default.css">
+    <!--<hr color="grey" size="5px"/>-->
+</head>
+ 
+<body>
+        <div id="firstbox">
+        </div>
+        <div id="secondbox">
+        </div>
+        <div id="thirdbox">
+        </div>
+   <b>
+<div id="firstp">
+    <p></p>
+    <p> The  <u><a href="https://www.google.com/search?q=olympic+games&rlz=1C1CHBD_enUS884US884&oq=olympic+games&aqs=chrome..69i57j46i512j0i512l3j0i433i512j0i512l3j0i433i512.1856j1j9&sourceid=chrome&ie=UTF-8">Olympic Games</a></u>
+        are the hightlights and goals of every professional athelete </p>    
+</div>
+
+<div id="secondp">
+    Every 4 years there are either the <a href="https://en.wikipedia.org/wiki/Summer_Olympic_Games">Summer Olympics</a> or the
+    <a href="https://en.wikipedia.org/wiki/Winter_Olympic_Games"> Winter Olympics </a> happening
+</div>
+<div id="thirdp">
+    <b>Those are the upcoming Olympic Games: </b>
+</div>
+</b>
+    <br>
+   <div id="image1">
+   <img src="Pictures/2024.jpg"
+        width="600"
+        height="400" />
+    </div>
+    <div id="text1">
+        <h2><a href="https://www.paris2024.org/en/">Paris 2024</a></h2>
+    </div>
+
+        <div id="image2">
+            <img src="Pictures/2026.png"
+                 width="600"
+                 height="400" />
+         </div>
+         <div id="text2">
+            <h2><a href="https://olympics.com/en/olympic-games/milano-cortina-2026">Milano 2026</a></h2>
+        </div>
+            
+
+                 <div id="image3">
+                    <img src="Pictures/2028.jpg"
+                         width="600"
+                         height="400" />
+
+                </div>
+                <div id="text3">
+                    <h2><a href="https://la28.org/">Los Angeles 2028</a></h2>
+                </div>
+
+                         <div id="image4">
+                            <img src="Pictures/2030.png"
+                                 width="600"
+                                 height="400" />
+                            </div>
+
+                                 <div id="text4">
+                                    <h2> <a href="https://en.wikipedia.org/wiki/2030_Winter_Olympics">Maybe: Vancouver 2030</a></h2>
+                                </div>
+
+   
+        </body>
+</body>
+ 
+</html>
